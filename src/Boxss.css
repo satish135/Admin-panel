@@ -1,0 +1,144 @@
+/* Boxss.css */
+
+.boxss {
+    position: relative;
+    width: 20rem;
+    margin-left: -250px;
+  }
+  
+  .schedule {
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 10px;
+    margin-top: 90px;
+    width: 15rem;
+  }
+  .div-1{
+    padding: 10px;
+  }
+  .div-2{
+    font-size: 25px;
+  }
+  .group {
+    margin-bottom: 20px;
+  }
+  .boxx{
+    box-shadow: #665db4;
+  }
+  .text-wrapper-a {
+    color: #303972;
+    font-family: "Poppins-Bold", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    
+  }
+  
+  .div {
+    color: #523485;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 8px;
+  }
+  
+  .box-a, .box-b {
+    position: relative;
+    width: 100%;
+    height: 183px;
+    margin-top: 20px;
+    box-shadow: #303972;
+  }
+  
+  .status-color {
+    background-color: #665db4;
+    border-radius: 10px 0 0 10px;
+    width: 24px;
+    height: 100%;
+  }
+  
+  
+  .details {
+    padding: 20px;
+    margin-top: -400px;
+    margin-left: 20px;
+  }
+  
+  .text-wrapper-b {
+    color: #a098ae;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    
+  }
+  
+  .img-1 {
+    height: 12px;
+    width: 24px;
+  }
+  
+  .text-wrapper-c {
+    color: #a098ae;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    display: inline-block;
+    margin-left: 8px;
+    margin-top: 35px;
+  }
+  
+  .hours {
+    display: flex;
+    align-items: center;
+    margin-top: 8px;
+  }
+  
+  .text-wrapper-d {
+    color: #9c99c5;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+  }
+  
+  .btn-viewmore {
+    all: unset;
+    box-sizing: border-box;
+    height: 60px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    margin-top: 20px;
+  }
+  
+  .overlap-group {
+    border-radius: 40px;
+    height: 60px;
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+  }
+  
+  .background {
+    background-color: #4d44b5;
+    border-radius: 40px;
+    height: 100%;
+    opacity: 0.1;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+  
+  .label {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .text-wrapper-d {
+    color: #4d44b5;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+  }
+  

@@ -1,0 +1,30 @@
+/* Sidebar.css */
+
+.sidebar {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 20px;
+
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #fff;
+    display: flex;
+    align-items: center;
+  }
+  
+  /* Add spacing between icon and text */
+  svg {
+    margin-right: 10px; /* Adjust the margin as needed */
+  }
+  

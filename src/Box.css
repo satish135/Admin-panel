@@ -1,0 +1,218 @@
+/* Box.css */
+
+.box {
+  height: 498px;
+  width: 800px;
+  position: relative;
+  margin-top: 50px;
+  margin-left: 40px;
+}
+
+.student-profile {
+  height: 100%;
+  width: 100%;
+  border-radius: 2;
+}
+
+.overlap-group {
+  background-color: #ffffff;
+  border-radius: 20px;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+.overlap {
+  height: 232px;
+  width: 100%;
+  position: absolute;
+}
+
+.dots {
+  height: 24px;
+  width: 24px;
+  position: absolute;
+  top: 172px;
+  left: 951px;
+  margin-left: -200px;
+}
+
+.cover {
+  background-color: #4d44b5;
+  background-size: 100% 100%;
+  box-shadow: 0px 20px 50px #bf156c0d;
+  height: 140px;
+  width: 100%;
+  position: absolute;
+  border-radius: 20px;
+}
+
+.avatar {
+  background-color: #c1bbeb;
+  border: 8px solid #ffffff;
+  border-radius: 100px;
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  top: 32px;
+  left: 32px;
+}
+
+.title-1 {
+  color: #303972;
+  font-family: "Poppins-Bold", Helvetica;
+  font-size: 24px;
+  font-weight: 300;
+  position: absolute;
+  top: 266px;
+  left: 32px;
+}
+
+.text-wrapper {
+  color: #a098ae;
+  font-family: "Poppins-SemiBold", Helvetica;
+  font-size: 18px;
+  font-weight: 300;
+  position: absolute;
+  top: 306px;
+  left: 32px;
+}
+
+.contact {
+  height: 75px;
+  width: 95px;
+  position: absolute;
+  top: 375px;
+  left: 32px;
+  margin-left: -20px;
+  
+}
+
+.parent {
+  height: 75px;
+  width: 166px;
+  position: absolute;
+  top: 0;
+}
+
+.email {
+  height: 40px;
+  width: 164px;
+  position: absolute;
+  top: 35px;
+  left: 0;
+}
+
+.div {
+  align-items: center;
+  display: inline-flex;
+  gap: 16px;
+  position: relative;
+  
+}
+
+.img-wrapper {
+  background-color: #fb7d5b;
+  border-radius: 40px;
+  height: 40px;
+  position: relative;
+  width: 40px;
+}
+
+.img {
+  height: 24px;
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  width: 24px;
+}
+
+.text-wrapper-2 {
+  color: #303972;
+  font-family: "Poppins-SemiBold", Helvetica;
+  font-size: 18px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+  
+
+}
+
+.text-wrapper-3 {
+  color: #a098ae;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 200;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  
+
+}
+
+
+.address {
+  height: 75px;
+  width: 196px;
+  position: absolute;
+  top: 0;
+  left: 221px;
+}
+
+.location {
+  align-items: center;
+  display: inline-flex;
+  gap: 8px;
+  position: absolute;
+  top: 35px;
+  left: 0;
+}
+
+.phone {
+  height: 75px;
+  width: 190px;
+  position: absolute;
+  top: 0;
+  left: 498px;
+}
+
+.phone-wrapper {
+  height: 40px;
+  width: 188px;
+  position: absolute;
+  top: 35px;
+  left: 0;
+}
+
+.email-2 {
+  height: 75px;
+  width: 214px;
+  position: absolute;
+  top: 0;
+  left: 741px;
+}
+
+.mail-wrapper {
+  height: 40px;
+  width: 210px;
+  position: absolute;
+  top: 35px;
+  left: 2px;
+}
+
+.hope-mail-com {
+  background: transparent;
+  border: none;
+  color: #303972;
+  font-family: "Poppins-SemiBold", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  padding: 0;
+  position: relative;
+  width: fit-content;
+}

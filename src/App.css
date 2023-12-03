@@ -1,0 +1,65 @@
+/* App.css */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial', sans-serif;
+}
+
+.app {
+  display: flex;
+}
+
+.sidebar {
+  width: 130px;
+  height: 150vh;
+  background-color: rgb(19, 84, 130);
+  color: white;
+  padding: 80px;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+  margin-left: 10px;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 10px;
+  font-size: 20px;
+  padding-bottom: 10px;
+  margin-left:-20px;
+  margin-top: -50px;
+  
+}
+
+.sidebar li {
+  margin-bottom: 0px;
+}
+
+.sidebar a {
+  text-decoration: none;
+  color: white;
+  font-size: 22px;
+  display: flex;
+  align-items: center;
+  transition: color 0.3s ease;
+}
+
+/* Increase the left margin for font icons */
+.sidebar svg {
+  margin-right: 15px; /* Adjust the margin as needed */
+}
+
+.sidebar a:hover {
+  color: #61dafb;
+}
+
+.content {
+  flex: 1;
+  padding: 20px;
+}
+
+.content div {
+  background-color: #f4f4f4;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
